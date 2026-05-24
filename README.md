@@ -45,5 +45,8 @@ Co do zapytania SQL to zmieniłem tylko warunek na timestamp żeby zwracał jaki
 
 ### 4. Odpowiedzi na wszystkie pytania z zadania
 
-są wewnątrz notebooków consumerA i consumerB
+...są wewnątrz notebooków consumerA i consumerB
+W notebookach pojawiają się również błędy typu ```KeyboardInterrupt``` - to dlatego bo przerywałem pętle konsumentów by zadać pytania do bazy
+
+
 
